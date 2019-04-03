@@ -1,8 +1,34 @@
 body{
-    font-family: 'Arial'
+    font-family: 'Arial';
+    background-color: #f7e6d4;
 }
 
 img{
     height: 300px;
     width: 450px;
 }
+
+h1{
+    font-size: 50px;
+    margin-left: 21.5vw;
+}
+
+.text{
+    font-size: 20px;
+    margin-left: 20vw;
+    width: 60vw;
+}
+
+images{
+    margin-left: 2vw;
+}
+
+/* .team h2{
+    font-size: 40px;
+    margin-left: 44vw;
+} */
+
+@media only screen and (max-width: 600px) {
+
+}
+
